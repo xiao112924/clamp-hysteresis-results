@@ -1,0 +1,4 @@
+interface:
+  display_name: "匹配MATLAB与仿真数据"
+  short_description: "将MATLAB实验曲线与仿真结果CSV逐点对应并汇总误差"
+  default_prompt: "使用 $match-matlab-simulation-data 将MATLAB实验数据与仿真结果逐点对应，并输出明细和汇总表。"
