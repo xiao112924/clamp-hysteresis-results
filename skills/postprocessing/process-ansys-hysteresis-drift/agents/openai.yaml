@@ -1,0 +1,5 @@
+interface:
+  display_name: "ANSYS滞回漂移处理"
+  short_description: "修正位移漂移、拟合等效刚度并绘制中文滞回曲线图"
+  default_prompt: "使用 $process-ansys-hysteresis-drift 处理ANSYS力-位移数据，修正漂移、拟合刚度并输出中文图表。"
+
