@@ -1,0 +1,5 @@
+interface:
+  display_name: "ANSYS位移装配共节点"
+  short_description: "用临时接触完成位移装配、几何更新、共节点处理及循环加载验证"
+  default_prompt: "使用 $ansys-displacement-assembly-common-node 将MAPDL模型按位移装配、UPGEOM、界面共节点和恢复约束流程处理，并验证循环加载。"
+
