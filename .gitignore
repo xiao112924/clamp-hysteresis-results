@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+outputs/
+*.rst
+*.db
+*.cdb
+*.emat
+*.esav
+*.full
+*.r001
